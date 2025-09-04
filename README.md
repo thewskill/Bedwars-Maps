@@ -1,3 +1,3 @@
-# Asian Ranked Bedwars Maps.
+# Ranked Bedwars Maps.
 
 Maps for ranked bedwars servers.
